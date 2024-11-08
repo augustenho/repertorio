@@ -63,7 +63,7 @@ body{
 .apresentacao__links__link{
     display: flex;
     border: 2px solid blue;
-    width: 380px;
+    width: 350px;
     text-align: center;
     border-radius: 16px;
     font-size:24px;
@@ -81,7 +81,7 @@ body{
 .apresentacao__links__link:hover{
 
     background-color: #272727;
-    width:400px;
+    width:380px;
     font-size: 26px;
 }
 
