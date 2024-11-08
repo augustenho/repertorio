@@ -61,7 +61,7 @@ body{
 }
 
 .apresentacao__links__link{
-    display: inline-block;
+    display: flex;
     border: 2px solid blue;
     width: 380px;
     text-align: center;
